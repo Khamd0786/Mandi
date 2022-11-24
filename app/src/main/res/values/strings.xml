@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JivaAssisment</string>
+    <string name="gross_weight">Gross Wight</string>
+    <string name="village">Village</string>
+    <string name="loyalty_h1">Loyalty Card Identifier</string>
+    <string name="seller_h1">Seller Name</string>
+    <string name="thank_you"><![CDATA[Thank You <Seller Name> for selling your quality product]]></string>
+    <string name="thank_you2">Thank You</string>
+    <string name="selling_message"> for selling your quality product</string>
+</resources>
